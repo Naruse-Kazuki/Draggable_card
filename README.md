@@ -2,6 +2,9 @@
 
 Draggable card app.
 
+![Animated GIF-downsized (3)](https://user-images.githubusercontent.com/53788311/80296184-bbed2c80-87b3-11ea-9f2e-431d27e22767.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
